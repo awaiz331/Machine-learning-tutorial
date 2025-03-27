@@ -1,5 +1,7 @@
 # Logistic Regression Tutorial
 
+Follow the below steps to implement Logistic Regression with sample data. If you already have knowledge about Logistic regression, open Cancer_Detection.ipynb file for advance implementaion and learning.
+
 ## Steps to Implement Logistic Regression with Python code
 
 ## 1. Import Libraries:
